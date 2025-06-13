@@ -1,0 +1,30 @@
+*.db
+*.sqlite3
+
+
+# Archivos de entornos virtuales
+venv/
+.venv/
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Logs y reportes
+logs/
+reports/
+allure-results/
+assets/
+data/
+*.log
+*.html
+
+# Archivos generados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Credenciales
+config.ini
+*.env
