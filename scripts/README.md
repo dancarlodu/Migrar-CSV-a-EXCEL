@@ -9,3 +9,8 @@ Script para convertir los archivos en formato csv a formato de excel
 ## Ejecución script
 python scripts/migrar_csv_excel.py
 python scripts/migrar_csv_excel_chardet.py
+
+
+# Actualización de dependencias:
+Revisión mensual de requirements.txt:
+pip freeze > requirements.txt
